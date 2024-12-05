@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bagherwal</h1>
-<h3 align="center">I specialize in building scalable, high-performance web applications. My expertise spans across 𝐑𝐮𝐛𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐬 ensuring top-quality, end-to-end solutions that are tailored to meet your business goals and enhance user experience.</h3>
+<h3 align="center">I specialize in building scalable, high-performance web applications. My expertise spans across 𝐑𝐮𝐛𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐬 ensuring top-quality.</h3>
 
 - 🌱 I’m currently learning **React js**
 
